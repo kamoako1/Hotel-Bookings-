@@ -5,9 +5,6 @@ Click on the following image to view our live app! (Alt: To open the app in a ne
 <br>
 [![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)](https://eyguidry.shinyapps.io/Hotel_Travel_Guide/)
 
-# Reproducing the App
-If you wish to run the app from R Studio, select options under 'code' to download a zip file of the necessary documents.
-
 # 1.	Project Overview:
 ![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel.jpeg)
  
@@ -16,6 +13,9 @@ The goal of the project is to predict the count of booking cancellations and pea
 The process of our analysis will be: Understanding the Datasets, Analyzing, and visualizing the data. 
 
 Our goal is to predict type of customers who prefers to stay either in the city style or the resort style, and to predict the possibility of monthly cancellations. We also performed time series analysis to forecast the number of monthly bookings.
+
+# Reproducing the App
+If you wish to run the app from R Studio, select options under 'code' to download a zip file of the necessary documents.
 
 
 # 2.Data Source :
