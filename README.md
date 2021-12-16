@@ -5,7 +5,7 @@ Click on the following image to view our live app! (Alt: To open the app in a ne
 <br>
 [![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)](https://eyguidry.shinyapps.io/Hotel_Travel_Guide/)
 
-<h4> # Reproducing the App </h4>
+<h3> Reproducing the App </h3>
 If you wish to run the app from R Studio, select options under 'code' to download a zip file of the necessary documents.
 
 # 1.	Project Overview:
