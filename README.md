@@ -1,7 +1,7 @@
 # Hotel Travel Guide: Analyzing Hotel-Booking Demand through Visual Analytics
 
 # Shinyapp Project R
-![https://eyguidry.shinyapps.io/Hotel_Travel_Guide/](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)
+[![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)](https://eyguidry.shinyapps.io/Hotel_Travel_Guide/)
 
 # 1.	Project Overview:
 ![](https://github.com/skala2/Hotel-Bookings/blob/main/hotel.jpeg)
