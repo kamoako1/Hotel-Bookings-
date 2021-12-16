@@ -1,10 +1,7 @@
 # Hotel Travel Guide: Analyzing Hotel-Booking Demand through Visual Analytics
 
 # Shinyapp Project R
-Click on the following image to view our live app!
-<br>
-<br>
-Alt: To open the app in a new window, right click on the image to view your options.
+Click on the following image to view our live app! (Alt: To open the app in a new window, right click on the image to view your options.)
 [![](https://github.com/skala2/Hotel-Bookings/blob/main/R_studio.png)](https://eyguidry.shinyapps.io/Hotel_Travel_Guide/)
 
 # 1.	Project Overview:
