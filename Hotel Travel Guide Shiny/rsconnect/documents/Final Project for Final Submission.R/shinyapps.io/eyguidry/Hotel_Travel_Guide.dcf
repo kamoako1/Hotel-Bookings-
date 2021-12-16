@@ -1,0 +1,14 @@
+name: Hotel_Travel_Guide
+title: Hotel_Travel_Guide
+username:
+account: eyguidry
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5280122
+bundleId: 5378308
+url: https://eyguidry.shinyapps.io/Hotel_Travel_Guide/
+when: 1639616661.42625
+lastSyncTime: 1639616661.42627
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: FINAL Final Project.R
