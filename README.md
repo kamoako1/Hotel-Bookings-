@@ -1,4 +1,4 @@
-# Hotel Travel Guide: Analyzing Hotel-Booking Demand through Visual Analytics
+# Hotel Travel Guide: Analyzing Hotel-Booking Demand with Visual Analytics
 
 # Shinyapp Project R
 Click on the following image to view our live app! (Alt: To open the app in a new tab/window, right click on the image to view your options.)
